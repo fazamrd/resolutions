@@ -3,3 +3,4 @@
 - Learn more about data analysis
 - Merge data analysis with football knowledge
 - Put myself out there and collaborate
+- Learn more about GitHub
